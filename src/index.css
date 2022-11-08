@@ -693,8 +693,8 @@ footer {
     height: 17%;
   }
   .desktop-notch {
-    width: 2%;
-    height: 4%;
+    width: 5px;
+    height: 5px;
   }
   .desktop-screen {
     height: 90%;
