@@ -162,6 +162,7 @@ nav a.active {
   font-size: 22px;
   /* text-align: end; */
 }
+
 .container-shake {
   margin-top: 30px;
   align-self: center;
@@ -799,6 +800,9 @@ footer {
     font-size: 30px;
   }
   .company-description {
+    font-size: 12px;
+  }
+  footer p {
     font-size: 12px;
   }
 }
