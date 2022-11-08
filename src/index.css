@@ -419,8 +419,8 @@ nav a.active {
   top: 6px;
   background-color: var(--white);
   border-radius: 50px;
-  width: 1%;
-  height: 2%;
+  width: 5px;
+  height: 5px;
 }
 .other-service-wrapper {
   background-color: var(--black);
@@ -692,10 +692,7 @@ footer {
   .mobile-notch {
     height: 17%;
   }
-  .desktop-notch {
-    width: 5px;
-    height: 5px;
-  }
+
   .desktop-screen {
     height: 90%;
   }
